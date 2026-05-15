@@ -1,4 +1,4 @@
-# Automated Email Campaign Workflow with Google Sheets & Make.com
+# Internal Email Automation Workflow (Make + Google Sheets)
 
 ## My Role
 Workflow Automation and Integration Specialist
